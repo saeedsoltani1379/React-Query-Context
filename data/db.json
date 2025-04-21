@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "title": "How Artificial Intelligence Will Shape the Future",
+      "author": "Ali Mohammadi",
+      "price": 15,
+      "details": "This article delves into how artificial intelligence is transforming industries like healthcare, education, transportation, and manufacturing. It examines AI’s role in reshaping future job markets, highlighting opportunities for innovation and efficiency. The piece also addresses challenges, such as automation’s impact on employment and ethical concerns around data privacy. Readers will gain insights into preparing for an AI-driven world, with strategies for individuals and businesses to adapt and thrive.",
+      "category": "Technology"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1516321315098-34d3c7b6",
+      "title":"Strategies for Success in Digital Marketing",
+      "author": "Sara Ahmadi",
+      "price": 20,
+      "details": "This guide outlines proven strategies to elevate your brand’s online presence through digital marketing. It covers essential techniques like SEO, social media campaigns, content creation, and email marketing. Learn how to target audiences effectively, analyze performance metrics, and optimize campaigns for better ROI. The article also explores emerging trends, such as influencer marketing and AI-driven ads, to keep your business competitive in the fast-evolving digital landscape.",
+      "category": "Business"
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "Python Programming for Beginners",
+      "author": "Reza Hosseini",
+      "price": 18,
+      "details": "This beginner-friendly guide introduces Python programming with clear, step-by-step instructions. It covers core concepts like variables, loops, functions, and data structures, making coding accessible to newcomers. Readers will work through practical examples, such as building simple apps and automating tasks. The book also highlights Python’s versatility in web development, data analysis, and AI, empowering learners to start their coding journey with confidence and real-world skills.",
+      "category": "Technology"
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "title": "How Meditation Can Transform Your Life",
+      "author": "Maryam Kazemi",
+      "price": 12,
+      "details": "This article explores meditation’s profound benefits for mental and physical well-being. It introduces techniques like mindfulness, guided visualization, and breathing exercises to reduce stress and enhance focus. Readers will learn how regular practice can improve emotional resilience, boost creativity, and promote better sleep. The piece also addresses common challenges for beginners and offers practical tips to build a sustainable meditation routine for lasting positive change in daily life.",
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1519125323398-675f0f8d",
+      "title": "The Future of Renewable Energy",
+      "author": "Hossein Rezaei",
+      "price": 25,
+      "details": "This article examines the latest advancements in renewable energy, focusing on solar, wind, and hydroelectric technologies. It discusses how these innovations are reducing carbon footprints and reshaping global energy markets. The piece highlights challenges like storage and scalability, alongside opportunities for sustainable development. Readers will gain insights into government policies, investment trends, and the role of renewables in combating climate change for a greener, more sustainable future.",
+      "category": "Sustainability"
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "title": "Mastering Time Management",
+      "author": "Nima Farhadi",
+      "price": 14,
+      "details": "This guide offers practical strategies to manage time effectively and boost productivity. It covers techniques like prioritization, goal-setting, and the Pomodoro method to minimize distractions. Readers will learn how to balance work and personal life, delegate tasks, and avoid procrastination. The article also includes tips for using digital tools to stay organized, helping individuals achieve their goals while maintaining a healthy, stress-free lifestyle in today’s fast-paced world.",
+      "category": "Personal Development"
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+      "title": "The Rise of Blockchain Technology",
+      "author": "Fatemeh Shariati",
+      "price": 22,
+      "details": "This article dives into blockchain’s transformative impact on finance, supply chains, and beyond. It explains how decentralized ledgers ensure transparency and security in transactions. Readers will explore real-world applications, from cryptocurrencies to smart contracts, and understand blockchain’s potential to disrupt traditional industries. The piece also covers challenges like scalability and regulation, offering insights into how businesses can leverage this technology for innovation and efficiency in a digital era.",
+      "category": "Technology"
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "Building a Startup from Scratch",
+      "author": "Kaveh Rahimi",
+      "price": 19,
+      "details": "This guide walks aspiring entrepreneurs through launching a startup from the ground up. It covers idea validation, business planning, funding strategies, and team-building essentials. Readers will learn how to navigate challenges like market competition and financial management while scaling their ventures. The article also highlights case studies of successful startups, offering practical tips to turn innovative ideas into thriving businesses in today’s dynamic entrepreneurial landscape.",
+      "category": "Business"
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+      "title": "The Art of Negotiation",
+      "author": "Leila Ghaffari",
+      "price": 16,
+      "details": "This article teaches negotiation techniques for business and everyday scenarios. It covers strategies like active listening, understanding leverage, and building win-win outcomes. Readers will learn how to prepare effectively, manage emotions, and handle tough conversations with confidence. The piece also explores cultural influences on negotiation and provides real-world examples, equipping individuals with skills to secure better deals and strengthen relationships in professional and personal settings.",
+      "category": "Business"
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1509228622689-5b2db86d7684",
+      "title": "Understanding Quantum Computing",
+      "author": "Mehdi Azizi",
+      "price": 28,
+      "details": "This article introduces quantum computing’s core principles and transformative potential. It explains qubits, superposition, and entanglement in beginner-friendly terms, highlighting applications in cryptography, AI, and drug discovery. Readers will explore how quantum systems differ from classical computers and their promise for solving complex problems. The piece also addresses current limitations, such as error rates, and offers insights into the future of this cutting-edge technology for innovators and researchers.",
+      "category": "Technology"
+    },
+    {
+      "id": 11,
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "title": "The Power of Positive Thinking",
+      "author": "Zahra Ebrahimi",
+      "price": 13,
+      "details": "This article explores how positive thinking can transform personal and professional lives. It discusses mindset shifts, gratitude practices, and visualization techniques to foster resilience and motivation. Readers will learn how optimism influences decision-making, relationships, and stress management. The piece also addresses overcoming negative thought patterns with practical exercises, empowering individuals to cultivate a hopeful outlook and achieve their goals with confidence in any challenging environment.",
+      "category": "Personal Development"
+    },
+    {
+      "id": 12,
+      "image": "https://images.unsplash.com/photo-1516321315098-34d3c7b6",
+      "title": "Cybersecurity Essentials",
+      "author": "Amir Hosseinzadeh",
+      "price": 21,
+      "details": "This guide covers fundamental cybersecurity practices to protect data and systems. It explains threats like phishing, malware, and ransomware, alongside defenses such as encryption and firewalls. Readers will learn how to secure networks, manage passwords, and respond to breaches effectively. The article also highlights emerging trends like zero-trust architecture, equipping individuals and businesses with tools to stay safe in an increasingly connected and vulnerable digital world.",
+      "category": "Technology"
+    },
+    {
+      "id": 13,
+      "image": "https://images.unsplash.com/photo-1497366210545-68724f67f083",
+      "title": "The Science of Happiness",
+      "author": "Shirin Bahrami",
+      "price": 17,
+      "details": "This article dives into research-backed strategies for boosting happiness and well-being. It explores concepts like gratitude, social connections, and mindfulness, showing how they enhance life satisfaction. Readers will discover practical exercises to cultivate positive emotions and manage stress effectively. The piece also examines how environment and habits shape mood, offering insights to create lasting joy and resilience in both personal and professional spheres of life.",
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 14,
+      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+      "title": "Introduction to Machine Learning",
+      "author": "Behnam Shokri",
+      "price": 24,
+      "details": "This beginner’s guide introduces machine learning concepts like supervised and unsupervised learning. It covers algorithms, data preprocessing, and model evaluation in clear terms, with examples like spam filters and recommendation systems. Readers will learn how to start building models using Python and popular libraries. The article also discusses real-world applications in healthcare and finance, empowering newcomers to explore AI’s potential with practical, hands-on knowledge.",
+      "category": "Technology"
+    },
+    {
+      "id": 15,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "title": "The Importance of Emotional Intelligence",
+      "author": "Parisa Gholami",
+      "price": 15,
+      "details": "This article highlights emotional intelligence’s role in enhancing relationships and leadership. It explains skills like self-awareness, empathy, and emotional regulation, showing how they improve communication and teamwork. Readers will learn practical ways to develop EQ for better decision-making and conflict resolution. The piece also explores EQ’s impact in professional settings, offering strategies to foster stronger connections and navigate challenges with confidence in personal and work life.",
+      "category": "Personal Development"
+    },
+    {
+      "id": 16,
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "title": "Sustainable Living: A Practical Guide",
+      "author": "Ehsan Jafari",
+      "price": 18,
+      "details": "This guide offers actionable steps to live sustainably and reduce environmental impact. It covers practices like recycling, energy conservation, and mindful consumption, with tips for eco-friendly habits at home. Readers will learn how small changes, such as using reusable products, can make a big difference. The article also discusses global sustainability trends, empowering individuals to contribute to a healthier planet through informed choices in daily life.",
+      "category": "Sustainability"
+    },
+    {
+      "id": 17,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "title": "The Evolution of Cloud Computing",
+      "author": "Ramin Kiani",
+      "price": 23,
+      "details": "This article traces cloud computing’s growth and its impact on businesses. It explains key concepts like IaaS, PaaS, and SaaS, highlighting benefits such as scalability and cost savings. Readers will explore how cloud technology enables remote work, data storage, and AI integration. The piece also addresses security concerns and future trends, offering insights for companies to leverage cloud solutions for innovation and efficiency in a digital-first world.",
+      "category": "Technology"
+    },
+    {
+      "id": 18,
+      "image": "https://images.unsplash.com/photo-1519125323398-675f0f8d",
+      "title": "Effective Public Speaking",
+      "author": "Hanieh Mousavi",
+      "price": 16,
+      "details": "This guide shares techniques to master public speaking and captivate audiences. It covers preparation, body language, and vocal delivery, with tips to overcome stage fright. Readers will learn how to structure speeches, engage listeners, and handle Q&A sessions confidently. The article also explores storytelling’s role in impactful presentations, equipping individuals with skills to shine in professional settings, from meetings to large-scale conferences or events.",
+      "category": "Personal Development"
+    },
+    {
+      "id": 19,
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+      "title": "The Impact of 5G Technology",
+      "author": "Omid Rahimi",
+      "price": 20,
+      "details": "This article explores 5G’s revolutionary impact on connectivity and innovation. It explains how faster speeds and lower latency enable advancements in IoT, autonomous vehicles, and smart cities. Readers will learn about 5G’s role in transforming industries like healthcare and entertainment. The piece also addresses challenges, such as infrastructure costs and security risks, offering insights into how this technology is shaping a more connected and efficient global future.",
+      "category": "Technology"
+    },
+    {
+      "id": 20,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "Financial Planning for Millennials",
+      "author": "Narges Shariati",
+      "price": 14,
+      "details": "This guide helps millennials navigate financial planning with practical advice. It covers budgeting, saving for emergencies, and investing in stocks or retirement plans. Readers will learn how to manage student debt, build credit, and set long-term goals. The article also addresses modern challenges like gig economy income, offering strategies to achieve financial stability and independence in an unpredictable economic landscape tailored to younger generations.",
+      "category": "Finance"
+    },
+    {
+      "id": 21,
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "title": "The Basics of Graphic Design",
+      "author": "Kianoush Azizi",
+      "price": 19,
+      "details": "This article introduces graphic design fundamentals for beginners. It covers principles like color theory, typography, and composition, with hands-on tips for using tools like Adobe Photoshop and Illustrator. Readers will learn how to create visually appealing logos, posters, and digital content. The piece also explores freelancing opportunities and industry trends, equipping newcomers with skills to start designing professionally or enhance their creative projects effectively.",
+      "category": "Design"
+    },
+    {
+      "id": 22,
+      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+      "title": "The Psychology of Decision Making",
+      "author": "Elham Ghaffari",
+      "price": 17,
+      "details": "This article examines how cognitive biases shape our decisions. It explores concepts like anchoring, confirmation bias, and loss aversion, with examples from daily life. Readers will learn strategies to make rational choices, such as critical thinking and data analysis. The piece also discusses emotional influences on judgment, offering insights to improve decision-making in business, relationships, and personal goals for better outcomes and clarity.",
+      "category": "Psychology"
+    },
+    {
+      "id": 23,
+      "image": "https://images.unsplash.com/photo-1509228622689-5b2db86d7684",
+      "title": "Building Mobile Apps with Flutter",
+      "author": "Saman Bahrami",
+      "price": 22,
+      "details": "This guide teaches how to develop cross-platform mobile apps using Flutter. It covers widgets, state management, and integration with APIs, with examples for iOS and Android. Readers will learn to create responsive, high-performance apps efficiently. The article also highlights Flutter’s advantages, such as fast development cycles, and explores real-world use cases, empowering developers to build professional-grade applications with Google’s versatile framework from scratch.",
+      "category": "Technology"
+    },
+    {
+      "id": 24,
+      "image": "https://images.unsplash.com/photo-1497366210545-68724f67f083",
+      "title": "The Benefits of Minimalism",
+      "author": "Tara Ebrahimi",
+      "price": 13,
+      "details": "This article explores how minimalism can bring clarity and freedom to life. It discusses decluttering physical spaces, simplifying routines, and focusing on meaningful priorities. Readers will learn practical steps to reduce possessions, manage time, and embrace intentional living. The piece also highlights minimalism’s mental health benefits, such as reduced stress, offering a roadmap to create a balanced, fulfilling lifestyle in a cluttered, fast-paced world.",
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 25,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "title": "Data Science for Business Leaders",
+      "author": "Vahid Hosseinzadeh",
+      "price": 26,
+      "details": "This article shows business leaders how to harness data science for strategic decisions. It covers analytics, predictive modeling, and data visualization, with examples like customer segmentation. Readers will learn to interpret insights, optimize operations, and drive growth. The piece also discusses building data-driven cultures and addressing privacy concerns, equipping executives with tools to leverage data effectively in competitive markets without needing technical expertise.",
+      "category": "Business"
+    },
+    {
+      "id": 26,
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "title": "The History of Cryptocurrency",
+      "author": "Babak Shokri",
+      "price": 21,
+      "details": "This article traces cryptocurrency’s evolution, from Bitcoin’s launch to modern altcoins. It explains blockchain’s role, market dynamics, and decentralization’s impact on finance. Readers will explore key milestones, like Ethereum’s smart contracts, and challenges, such as volatility and regulation. The piece also covers crypto’s potential for global payments and investment, offering insights into its past and future for enthusiasts and investors navigating this disruptive financial landscape.",
+      "category": "Finance"
+    },
+    {
+      "id": 27,
+      "image": "https://images.unsplash.com/photo-1519125323398-675f0f8d",
+      "title": "Improving Your Work-Life Balance",
+      "author": "Mona Rahimi",
+      "price": 15,
+      "details": "This guide offers strategies to achieve a healthy work-life balance. It covers setting boundaries, prioritizing self-care, and managing time effectively to reduce stress. Readers will learn techniques like mindfulness and delegation to boost well-being and productivity. The article also addresses challenges like remote work burnout, providing practical tips to create harmony between professional responsibilities and personal life for a more fulfilling and sustainable lifestyle.",
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 28,
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+      "title": "The Future of Autonomous Vehicles",
+      "author": "Arash Jafari",
+      "price": 24,
+      "details": "This article explores autonomous vehicles’ potential to reshape transportation. It covers technologies like LIDAR, AI, and V2X communication, with examples from self-driving cars. Readers will learn about safety benefits, urban planning impacts, and challenges like regulation and ethics. The piece also discusses industry leaders and timelines for adoption, offering insights into how this innovation will transform mobility and economies in the coming decades.",
+      "category": "Technology"
+    },
+    {
+      "id": 29,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "title": "The Art of Storytelling in Business",
+      "author": "Roya Mousavi",
+      "price": 18,
+      "details": "This article teaches how storytelling can strengthen business brands. It covers crafting narratives that resonate with customers, employees, and stakeholders. Readers will learn techniques to build emotional connections, from marketing campaigns to presentations. The piece also explores successful brand stories and common pitfalls, offering practical tips to engage audiences, boost loyalty, and differentiate businesses in competitive markets through authentic and compelling communication strategies.",
+      "category": "Business"
+    },
+    {
+      "id": 30,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "Introduction to Virtual Reality",
+      "author": "Kamran Farhadi",
+      "price": 20,
+      "details": "This beginner’s guide introduces virtual reality’s technology and applications. It explains VR hardware, software, and immersive experiences, with examples in gaming, education, and healthcare. Readers will learn how VR creates realistic simulations and its potential for training and entertainment. The article also covers challenges like motion sickness and accessibility, offering insights into VR’s growing role in shaping interactive, innovative solutions across industries in the digital age.",
+      "category": "Technology"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1516321315098-34d3c7b6"
+    },
+    {
+      "id": 2,
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+    },
+    {
+      "id": 3,
+      "category": "Personal Development",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+    },
+    {
+      "id": 4,
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
+    },
+    {
+      "id": 5,
+      "category": "Sustainability",
+      "image": "https://images.unsplash.com/photo-1519125323398-675f0f8d"
+    },
+    {
+      "id": 6,
+      "category": "Design",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+    },
+    {
+      "id": 7,
+      "category": "Psychology",
+      "image": "https://images.unsplash.com/photo-1497366210545-68724f67f083"
+    },
+    {
+      "id": 8,
+      "category": "Health & Wellness",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    }
+  ]
+}
