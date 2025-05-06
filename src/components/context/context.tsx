@@ -3,7 +3,7 @@ import { UseLicalStorage } from "../hook/uselocalstorage";
 import axios from "axios";
 import { ServerTypes } from "../servertypes/serverTypes";
 import { login } from "../services/api";
-import { useNavigate } from "react-router-dom";
+import { replace, useNavigate } from "react-router-dom";
 
 interface cartItem {
   id: number;
@@ -94,8 +94,8 @@ export function ContextProvider({ children }: { children: React.ReactNode }) {
 
   const handleLogout = () => {
     setisLogin(false);
-    navigate("/login");
     localStorage.removeItem("token");
+    navigate("/login", { replace: true });
   };
 
   useEffect(() => {

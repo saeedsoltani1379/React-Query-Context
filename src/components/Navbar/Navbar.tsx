@@ -36,7 +36,7 @@ function Navbar() {
       </button>
 
       <ul
-        className={`flex flex-col md:flex-row bg-gray-300 md:bg-transparent  md:w-auto absolute md:static top-20 left-0 p-6 md:p-0 space-y-6 md:space-y-0 md:space-x-14  transition-all duration-300 ease-in-out ${
+        className={`flex flex-col md:flex-row bg-gray-300 md:bg-transparent w-full md:w-auto absolute md:static top-20 left-0 p-6 md:p-0 space-y-6 md:space-y-0 md:space-x-14  transition-all duration-300 ease-in-out ${
           isOpen ? "block" : "hidden md:flex"
         }`}
       >

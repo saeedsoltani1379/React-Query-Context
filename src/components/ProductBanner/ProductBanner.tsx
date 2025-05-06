@@ -43,7 +43,7 @@ function ProductBanner({ products }: Props) {
             {products.slice(index, index + itemsPerSlide).map((item) => (
               <Link
                 key={item.id}
-                to={`/productDetail/${item.id}`}
+                to={`/products/productDetail/${item.id}`}
                 className="bg-gray-800 rounded-lg p-4 w-64 hover:bg-gray-700 transition-colors duration-300"
               >
                 <img
@@ -52,7 +52,7 @@ function ProductBanner({ products }: Props) {
                   className="w-full h-40 object-contain mb-3 rounded"
                 />
                 <h3 className="text-base font-semibold text-white truncate">{item.title}</h3>
-                <p className="text-gray-300 font-bold">{item.price} Toman</p>
+                <p className="text-gray-300 font-bold">{item.price}$</p>
               </Link>
             ))}
           </div>
