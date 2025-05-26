@@ -2,9 +2,9 @@ import { useEffect, useState } from "react";
 
 export function UseLicalStorage<T>(key: string, inivalue: T) {
   const [value, setvalue] = useState<T>(() => {
-    const storaheitem = localStorage.getItem("localitems");
-    if (storaheitem) {
-      return JSON.parse(storaheitem);
+    const storageitem = localStorage.getItem("localitems");
+    if (storageitem) {
+      return JSON.parse(storageitem);
     } else {
       return inivalue;
     }
